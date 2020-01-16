@@ -1,3 +1,7 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
 #product-overview {
   background: #ff1b68;
 }
@@ -11,9 +15,9 @@ h1 {
   font-family: 'Anton', sans-serif;
 }
 
-h1 {
+/* h1 {
   font-family: sans-serif;
-}
+} */
 
 /* In developer tools -> Styles tab you can see selectors aranged by priority
 from top to the bottom. 
