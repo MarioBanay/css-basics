@@ -2,11 +2,27 @@
   background: #ff1b68;
 }
 
+.section-title {
+  color: #2ddf5c;
+}
+
 h1 {
   color: white;
   font-family: 'Anton', sans-serif;
 }
 
-.section-title {
-  color: #2ddf5c;
+h1 {
+  font-family: sans-serif;
 }
+
+/* In developer tools -> Styles tab you can see selectors aranged by priority
+from top to the bottom. 
+
+Priority:
+- inline styling
+- #id-selector
+- .class-selector, pseudo-class and [attribute] selectors
+- Tag-selector 
+
+*/
+
